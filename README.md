@@ -3,6 +3,7 @@ Final project for COMP 576: Introduction to Deep Learning, Rice University.
 
 ## Author
 Kunhua Lei, Danyu Wang, Iris Wu, Dongwei Li
+
 Rice Univeristy, 6100 Main St. Houston, TX 77005
 
 ## Abstract
